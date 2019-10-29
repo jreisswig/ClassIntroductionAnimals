@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+  position: relative;
+  height: 100vh;
+}
+.animal {
+  height: 50px;
+  width: 100px;
+  position: absolute;
+  bottom: 20px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.eyes {
+  background-color: white;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  position: absolute;
+  bottom: 40px;
+}
